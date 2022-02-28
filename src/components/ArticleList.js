@@ -12,7 +12,9 @@ const ArticleList = React.memo(props => {
 	if (props.articles.length === 0) {
 		return (
 			<div className="article-preview">
-				There are no articles. None.
+				<span>
+					No articles are here... yet.
+				</span>
 			</div>
 		);
 	}
