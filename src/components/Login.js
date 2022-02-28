@@ -82,7 +82,7 @@ class Login extends React.PureComponent {
 										className='btn btn-lg btn-primary pull-xs-right'
 										type='submit'
 										disabled={this.props.inProgress}>
-										Click this button to Login
+										Sign in
 									</button>
 
 								</fieldset>

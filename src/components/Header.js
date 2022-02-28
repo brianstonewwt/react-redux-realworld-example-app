@@ -14,7 +14,7 @@ const LoggedOutView = React.memo(props => {
 
 				<li className="nav-item">
 					<Link to="/login" className="nav-link">
-						Log in
+						Click Here to Log in
 					</Link>
 				</li>
 
